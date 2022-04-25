@@ -1,0 +1,93 @@
+body{
+    background-color: rgb(73, 91, 105);
+}
+
+.image_logo{
+    padding-left: 150px;
+    width: 250px;
+}
+
+.collapse{
+    font-family: 'Open Sans', sans-serif;
+    padding-left: 60px;
+    font-size: 20px;
+    color: #fff;
+}
+
+.navbar{
+    background-color: rgb(73, 91, 105);
+}
+
+.nav-item{
+    padding-left: 30px;
+    color: #fff;
+}
+
+.menu_color{
+    color: rgb(231, 231, 231);
+}
+
+.quem-somos{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: rgb(228, 228, 228);
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+.img_team{
+    max-width: 100%;
+    width: 500px;
+    height: 400px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+   
+}
+
+.quemsomos_text{
+    display: flex;
+    justify-content: center;
+    margin: 0 400px;
+}
+
+.parceiross{
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    background-color: rgb(228, 228, 228);  
+    padding-bottom: 60px;
+    padding-top: 30px;  
+}
+
+.img_dio{
+    margin-top: 30px;
+}
+
+.servicoss{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    background-color: rgb(199, 199, 199);
+    padding-bottom: 60px;
+    padding-top: 30px;
+    
+}
+
+.titulo_servico{
+    padding-bottom: 30px;
+}
+
+.social-icons{
+    display: flex;
+    justify-content: center;
+}
+
+.social-icons div{
+    margin: 15px;
+}
+
+.social-icons .fa{
+    font-size: 40px;
+    color: rgb(231, 231, 231);
+}
+
+
+
