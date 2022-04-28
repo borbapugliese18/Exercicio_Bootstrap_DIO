@@ -3,7 +3,7 @@ Site responsivo utilizando Bootstrap para projeto da DIO (Digital Innovation One
 
 
 
-## Metodologia :page_facing_up::
+## Observações :page_facing_up::
 
 Uso das ferramentas do Bootstrap para retorno de responsividade e aprendizado dos comandos.
 
