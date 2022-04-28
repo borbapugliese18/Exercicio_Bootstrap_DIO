@@ -23,8 +23,27 @@ body{
     color: #fff;
 }
 
+.setting{
+    right: 0;
+    margin-right: 2%;
+    margin-bottom: 5px;
+    font-size: 30px;
+    color: #fff;
+    cursor: pointer;
+    
+}
+
+.setting:hover{
+    color: rgb(117, 117, 117);
+    
+}
+
 .menu_color{
-    color: rgb(231, 231, 231);
+    color: rgb(255, 255, 255);
+}
+
+.menu_color:hover{
+    color: rgb(117, 117, 117);
 }
 
 .quem-somos{
@@ -45,9 +64,7 @@ body{
 }
 
 .quemsomos_text{
-    display: flex;
-    justify-content: center;
-    margin: 0 400px;
+    margin: 0 20%;
 }
 
 .parceiross{
@@ -56,6 +73,7 @@ body{
     background-color: rgb(228, 228, 228);  
     padding-bottom: 60px;
     padding-top: 30px;  
+
 }
 
 .img_dio{
@@ -73,6 +91,11 @@ body{
 
 .titulo_servico{
     padding-bottom: 30px;
+}
+
+.container .descricao{
+    font-size: 22px;
+    margin-top: 10px;
 }
 
 .social-icons{
